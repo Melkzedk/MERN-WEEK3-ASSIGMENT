@@ -8,7 +8,7 @@ const VARIANT_STYLES = {
 };
 
 export default function Button({
-  variant = "primary",
+  variant = "primary123",
   className = "",
   children,
   type = "button",
